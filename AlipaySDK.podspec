@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = "AlipaySDK"
+s.name             = "AlipaySDK-Vendor"
 s.version          = "2.1.0"
 s.summary          = "An unofficial AlipaySDK Cocoapods repository."
 s.homepage         = "https://doc.open.alipay.com/doc2/alipayDocIndex.htm"
